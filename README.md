@@ -93,4 +93,6 @@ Referances:
 - [Checkout.com](https://www.checkout.com/docs/payments/payment-methods/wallets/apple-pay/set-up-apple-pay)
 - [Moyasar.com](https://moyasar.com/docs/tutorials/apple-pay-setup/)
 - [norfolkmustard/ApplePayJS](https://github.com/norfolkmustard/ApplePayJS)
+- [Apple Decument - apple_pay_on_the_web](https://developer.apple.com/documentation/apple_pay_on_the_web)
+- [Apple Decument - sandbox-testing](https://developer.apple.com/apple-pay/sandbox-testing/)
 
