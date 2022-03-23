@@ -87,7 +87,7 @@ openssl x509 -inform der -in merchant_id.cer -out certificate_sandbox.pem
 
 upload the certificates to you site and this certificate used to verifying 
 
-#### h4 Once you've completed the integration steps, you will be able to display the Apple Pay button and validate an Apple Pay Session (required for the web version).
+#### Once you've completed the integration steps, you will be able to display the Apple Pay button and validate an Apple Pay Session (required for the web version).
 
 Referances:
 - [Checkout.com](https://www.checkout.com/docs/payments/payment-methods/wallets/apple-pay/set-up-apple-pay)
